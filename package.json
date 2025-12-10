@@ -21,7 +21,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "minecraft-data": "^3.98.0",
+    "minecraft-data": "github:micahstubbs/minecraft-data#fix/1.21.10-complete-protocol-fixes",
     "minecraft-protocol": "^1.61.0",
     "prismarine-biome": "^1.1.1",
     "prismarine-block": "^1.22.0",
